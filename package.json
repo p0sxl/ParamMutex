@@ -1,0 +1,8 @@
+{
+  "name": "param-mutex",
+  "description": "ParamMutex",
+  "author": "p0sxl",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "version": "0.0.2"
+}
